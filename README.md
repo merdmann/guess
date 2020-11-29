@@ -1,2 +1,2 @@
-# guess
-Small Go TRaining exanple
+This a very simple guessing game
+
